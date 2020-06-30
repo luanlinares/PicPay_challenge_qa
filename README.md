@@ -1,4 +1,4 @@
-![PicPay Logo](logo.png)
+![PicPay Logo](logo.jpg)
 # PicPay Challenge QA #
 
 Este projeto foi criado para executar testes automatizados de uma aplicação web de e-commerce.
