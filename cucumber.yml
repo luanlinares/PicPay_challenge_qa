@@ -1,9 +1,10 @@
 ## YAML Templatesss
 ---
-default: -p pretty -p html -p chrome -p prod
+default: -p pretty -p chrome -p prod -p json
 for_ci:  --format progress
 pretty: --format pretty
 html:  --format html --out=results/report.html
 prod:  AMBIENTE=prod
 chrome:  BROWSER=chrome
 firefox:  BROWSER=firefox
+json: --format json --out=results/report.json

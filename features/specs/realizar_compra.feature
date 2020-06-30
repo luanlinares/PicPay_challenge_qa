@@ -7,7 +7,7 @@ Contexto: Inserir itens no carrinho de compras
 Dado que inseri itens do ecommerce no meu carrinho
 
 @compra
-Cenario: Realizar uma compra com sucesso
+Cenario: Realizar uma compra com usuário não cadastrado
 Quando realizar o meu cadastro
 E finalizar o pagamento
 Então meu pedido deve ser concluído com sucesso. 

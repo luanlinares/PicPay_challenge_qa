@@ -5,6 +5,7 @@ require 'capybara/cucumber'
 require 'selenium-webdriver'
 require 'faker'
 require 'site_prism'
+require "report_builder"
 require_relative 'page_helper.rb'
 require_relative 'helper.rb'
 

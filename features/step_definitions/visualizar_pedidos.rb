@@ -5,7 +5,7 @@ Dado('que realizei o login no ecommerce') do
   pedidos_page.login
 end
 
-Quando('acessar a pagina de pedidos') do
+Quando('acesso a pagina de pedidos') do
   pedidos_page.access_orders_page
 end
 

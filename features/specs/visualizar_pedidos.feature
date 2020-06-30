@@ -9,5 +9,5 @@ Dado que realizei o login no ecommerce
 
 @pedidos
 Cenario: Visualizar os meus pedidos
-Quando acessar a pagina de pedidos
+Quando acesso a pagina de pedidos
 Então devo visualizar a lista dos pedidos que realizei no ecommerce
